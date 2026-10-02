@@ -1,0 +1,37 @@
+# Rollback Evidence – Task 25
+## Multi-Table Sales Analysis
+
+### Rollback Approach
+
+A backup copy of the completed Task 25 files was maintained before making any further changes.
+
+The following files were retained as the rollback reference:
+
+- Task25_Sales_Analysis.sql
+- Task25_Sales_Analysis.xlsx
+- Task25_Multi_Table_Sales_Analysis.pbix
+
+### Rollback Procedure
+
+If any changes cause an issue, the saved backup files can be restored to return the project to the last working state.
+
+### Validation After Rollback
+
+The restored files can be checked for:
+
+- SQL query execution
+- Sales calculations
+- KPI values
+- Excel data
+- Power BI dashboard visuals
+
+### Final Validated KPI Values
+
+- Total Sales: 68,137
+- Total Orders: 40
+- Total Quantity: 2,942
+- Average Line Sales: 1,174.77
+
+### Rollback Status
+
+Backup files were retained as a recovery point for the completed analysis.
